@@ -1,0 +1,52 @@
+[
+  {
+    "id": "01",
+    "name": "HTML",
+    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "lorem",
+    "features": ["abc", "def", "ght"],
+    "price": 56
+  },
+
+  {
+    "id": "02",
+    "name": "CSS",
+    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "lorem",
+    "features": ["abc", "def", "ght"],
+    "price": 56
+  },
+  {
+    "id": "03",
+    "name": "JavaScript",
+    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "lorem",
+    "features": ["abc", "def", "ght"],
+    "price": 56
+  },
+  {
+    "id": "04",
+    "name": "React",
+    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "lorem",
+    "features": ["abc", "def", "ght"],
+    "price": 56
+  },
+  {
+    "id": "05",
+    "name": "Python",
+    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "lorem",
+    "features": ["abc", "def", "ght"],
+    "price": 56
+  },
+
+  {
+    "id": "06",
+    "name": "PHP",
+    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "lorem",
+    "features": ["abc", "def", "ght"],
+    "price": 56
+  }
+]
