@@ -2,51 +2,86 @@
   {
     "id": "01",
     "name": "HTML",
-    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "lorem",
-    "features": ["abc", "def", "ght"],
-    "price": "56"
+    "img": "https://img.freepik.com/free-photo/online-web-design_53876-95309.jpg?w=740&t=st=1666857839~exp=1666858439~hmac=068ede22eaf984c504ef2f6d8fa55cf58d3a2ebe72f4534724047347def4ae05",
+    "description": "all websites use HTML — even this one. It’s a fundamental part of every web developer's toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers.",
+    "features": ["Elements and Structure", "Tables", "Forms", "Semantic HTML"],
+    "price": "20"
   },
 
   {
     "id": "02",
     "name": "CSS",
-    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "lorem",
-    "features": ["abc", "def", "ght"],
-    "price": "56"
+    "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+    "description": "CSS, short for Cascading Style Sheets, is a style sheet language used to style websites. Colors, fonts, and page layouts for a site can all be managed using CSS. The more comfortable you are with CSS, the better equipped you will be to create an appealing website.",
+    "features": [
+      "Basic Style",
+      "Box Model",
+      "Position",
+      "Flex layout",
+      "Grid Layout",
+      "Responsive Design etc."
+    ],
+    "price": "30"
   },
   {
     "id": "03",
-    "name": "JavaScript",
-    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "lorem",
-    "features": ["abc", "def", "ght"],
+    "name": "JavaScript (Basic to Advance)",
+    "img": "https://img.freepik.com/free-vector/javascript-abstract-concept-illustration_335657-3702.jpg?w=740&t=st=1666858073~exp=1666858673~hmac=3ac358fa3c9aaeee0efd344e97758572d587097f8b08385232161ccb90046c0a",
+    "description": "JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+    "features": [
+      "Variable",
+      "Loop",
+      "Condition(if-else if-else)",
+      "Function",
+      "Dom manipulation etc."
+    ],
     "price": "56"
   },
   {
     "id": "04",
     "name": "React",
-    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "lorem",
-    "features": ["abc", "def", "ght"],
-    "price": "56"
+    "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "It is component-based. An example of a component could be a form or even just a form field or button on a website. In React, applications are completely built with components.Some of the most persistent issues of front-end development are solved with React, allowing one to build dynamic and interactive web apps with ease. It is fast, scalable, flexible, powerful, and has a robust developer community that’s rapidly growing.",
+    "features": [
+      "Components",
+      "JSX",
+      "Hook",
+      "Routing",
+      "Props",
+      "State",
+      "Virtual Dom"
+    ],
+    "price": "40"
   },
   {
     "id": "05",
     "name": "Python",
-    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "lorem",
-    "features": ["abc", "def", "ght"],
-    "price": "56"
+    "img": "https://ourcodeworld.com/public-media/articles/articleocw-5c65fbda1ea05.jpg",
+    "description": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Whatever you want to do, Python can do it. From data analysis to data visualization, web development to machine learning, Python is the language for you.",
+    "features": [
+      "Data types",
+      "Built in function",
+      "Loop",
+      "Decorators",
+      "Conditionals etc."
+    ],
+    "price": "50"
   },
 
   {
     "id": "06",
     "name": "PHP",
-    "img": "https://images.pexels.com/photos/6303729/pexels-photo-6303729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "lorem",
-    "features": ["abc", "def", "ght"],
-    "price": "56"
+    "img": "https://img.freepik.com/premium-photo/php-programming-code-abstract-technology-background_272306-152.jpg?w=740",
+    "description": "PHP is the most popular scripting language on the web. Without PHP Facebook, Yahoo, Google wouldn’t have exist. The course is geared to make you a PHP pro. Once you digest all basics, the course will help you create your very own Opinion Poll application.",
+    "features": [
+      "Array",
+      "Classes",
+      "Conditionals",
+      "Data types",
+      "Function",
+      "Loops",
+      "Operators etc."
+    ],
+    "price": "50"
   }
 ]
